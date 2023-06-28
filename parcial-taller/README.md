@@ -1,8 +1,8 @@
 <h1 align="center">Proyecto de Desarrollo Web</h1>
 
 <p align="center">
-  <img src="/capturas/captura1.png" alt="Captura de pantalla 1">
-  <img src="/capturas/captura2.png" alt="Captura de pantalla 2">
+  <img src="parcial-taller\images\img1.png" alt="Captura de pantalla 1">
+  <img src="parcial-taller\images\img2.png" alt="Captura de pantalla 2">
 </p>
 
 <p align="center">Este proyecto es una aplicación web que se utiliza para mostrar información sobre tecnologías utilizadas en el desarrollo.</p>
@@ -15,10 +15,7 @@
 
 ## Tecnologías utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap (para el modal)
+<img src="images/tecnologias.png" alt="Captura de pantalla 1">
 
 ## Instalación
 
