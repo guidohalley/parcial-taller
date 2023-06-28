@@ -22,8 +22,8 @@
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tu_usuario/tu_proyecto.git`
-2. Navega al directorio del proyecto: `cd tu_proyecto`
+1. Clona este repositorio: `git clone https://github.com/guidohalley/parcial-taller.git`
+2. Navega al directorio del proyecto: `cd parcial-taller`
 3. Abre el archivo `index.html` en tu navegador.
 
 ## Contribución
@@ -38,8 +38,5 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ## Créditos
 
-- Desarrollado por [Tu Nombre](https://github.com/tu_usuario)
+- Desarrollado por [Guido Halley ](https://github.com/guidohalley)
 
-## Licencia
-
-Este proyecto está bajo la [Licencia MIT](LICENSE).
