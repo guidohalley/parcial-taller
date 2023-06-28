@@ -21,8 +21,8 @@
 
 1. Clona este repositorio: `git clone https://github.com/guidohalley/parcial-taller.git`
 2. Navega al directorio del proyecto: `cd parcial-taller`
-3. Abre el archivo `index.html` y presiona `alt + o` o ` alt + l`.
-4. Tambien Puedes Abrir el archivo index.html en el navegador.  
+3. Si tienes la extension Live Server abre el archivo `index.html` y presiona `alt + l` y despues ` alt + o`.
+4. Tambien puedes abrir el archivo index.html en el navegador.  
 
 
 ## Contribución
