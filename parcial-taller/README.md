@@ -35,5 +35,6 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ## Créditos
 
-- Desarrollado por [Guido Halley ](https://github.com/guidohalley)
+- Desarrollado por [Guido Halley ](https://github.com/guidohalley) 
+Para la Materia Taller de Paginas Web: Profesor Kurtz Gabriel.
 
